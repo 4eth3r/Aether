@@ -78,6 +78,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     document.getElementById('ai-image').addEventListener('click', function() {
-        openIframe('https://4ef6-46-222-42-115.ngrok-free.app'); // Replace with actual URL
+        openIframe('https://a967-46-222-42-115.ngrok-free.app'); // Replace with actual URL
     });
 });
